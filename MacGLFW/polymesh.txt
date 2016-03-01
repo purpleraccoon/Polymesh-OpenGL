@@ -1,2 +1,2 @@
-cube.txt
+pot7.txt
 1 0 1
